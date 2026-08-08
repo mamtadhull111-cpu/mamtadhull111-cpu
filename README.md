@@ -1,8 +1,11 @@
-                                        ### Hi, I'm Mamta 👋
-                            Student · Vibe Coder · AI Content Creator — Haryana,India 🇮🇳
+                        <div align="center">
 
-              I want to build things that actually work, and create content that people stop scrolling for.
+### Hi, I'm Mamta 👋
+**Student · Vibe Coder · AI Content Creator — Haryana, India 🇮🇳**
 
+I want to build things that actually work, and create content that people stop scrolling for.
+
+</div>
 ---
 
 ## 🚀 What drives me
