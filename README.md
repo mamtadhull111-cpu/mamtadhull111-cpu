@@ -1,5 +1,3 @@
-<img width="1333" height="654" alt="website" src="https://github.com/user-attachments/assets/2b997fca-fb09-4fe2-8259-df4dfff2fb70" />
-<img width="1240" height="594" alt="game" src="https://github.com/user-attachments/assets/fcd2a866-467e-4052-a8e1-86972cf54e5f" />
 
 
 <div align="center">
@@ -64,11 +62,13 @@ So I keep building, keep creating, and keep putting it out there — publicly, e
 
 **[Smash Zone]**
 A short one-line description of what this game does.
+<img width="1240" height="594" alt="game" src="https://github.com/user-attachments/assets/36e7d2e3-e51e-4ab3-bcb7-2f06ba7f0755" />
 
 🔗 [Live demo](paddle-clash.vercel.app) · 📦 [Code](https://github.com/mamtadhull111-cpu/Paddle-Clash.git)
 
 **[GVPS PAI]**
 A short one-line description of what this website does.
+<img width="1333" height="654" alt="website" src="https://github.com/user-attachments/assets/5cb2a0f5-9be0-4b95-9550-d8f9ec8f7eda" />
 
 🔗 [Live demo](school-website-api-server.vercel.app) · 📦 [Code](https://github.com/mamtadhull111-cpu/school-website.git)
 
