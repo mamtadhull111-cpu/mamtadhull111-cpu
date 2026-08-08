@@ -62,8 +62,7 @@ Every project I start, I'm asking: can I actually make this work, end to end? So
 <tr>
 <td width="45%">
 
-<img src="<img width="1333" height="654" alt="website" src="https://github.com/user-attachments/assets/679ed060-02d7-460e-bc40-a95dc4ef977e" />
-" width="100%">
+<img src="<img width="1333" height="654" alt="website" src="https://github.com/user-attachments/assets/679ed060-02d7-460e-bc40-a95dc4ef977e" />" width="100%">
 
 </td>
 <td width="55%">
@@ -86,8 +85,7 @@ Built to feel less like a brochure and more like a warm welcome to the school.
 <tr>
 <td width="45%">
 
-<img src="<img width="1240" height="594" alt="game" src="https://github.com/user-attachments/assets/b02f13e6-3fd5-4207-aafa-51b915b59d51" />
-" width="100%">
+<img src="<img width="1240" height="594" alt="game" src="https://github.com/user-attachments/assets/b02f13e6-3fd5-4207aafa51b915b59d51"/>" width="100%">
 
 </td>
 <td width="55%">
