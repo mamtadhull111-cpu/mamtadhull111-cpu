@@ -1,7 +1,7 @@
-### Hi, I'm Mamta 👋
-Student · Vibe Coder · AI Content Creator — India 🇮🇳
+                                        ### Hi, I'm Mamta 👋
+                            Student · Vibe Coder · AI Content Creator — Haryana,India 🇮🇳
 
-I want to build things that actually work, and create content that people stop scrolling for.
+              I want to build things that actually work, and create content that people stop scrolling for.
 
 ---
 
@@ -56,15 +56,15 @@ So I keep building, keep creating, and keep putting it out there — publicly, e
 
 ## 📌 Featured
 
-**[Game Name Here]**
+**[Smash Zone]**
 A short one-line description of what this game does.
 
-🔗 [Live demo](your-live-link-here) · 📦 [Code](your-repo-link-here)
+🔗 [Live demo](paddle-clash.vercel.app) · 📦 [Code](https://github.com/mamtadhull111-cpu/Paddle-Clash.git)
 
-**[Website Name Here]**
+**[GVPS PAI]**
 A short one-line description of what this website does.
 
-🔗 [Live demo](your-live-link-here) · 📦 [Code](your-repo-link-here)
+🔗 [Live demo](school-website-api-server.vercel.app) · 📦 [Code](https://github.com/mamtadhull111-cpu/school-website.git)
 
 ---
 
