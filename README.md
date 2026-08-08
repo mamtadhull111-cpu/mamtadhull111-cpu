@@ -1,4 +1,4 @@
-                        <div align="center">
+
 
 ### Hi, I'm Mamta 👋
 **Student · Vibe Coder · AI Content Creator — Haryana, India 🇮🇳**
