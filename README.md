@@ -36,10 +36,10 @@ HTML5 · CSS3 · JavaScript
 Git · GitHub
 
 📌 Featured
-**[Game Name Here]**
+**[Paddle CLASH]**
 A short one-line description of what this game does and what makes it interesting.
 
-🔗 Live demo · 📦 [Code](your-repo-link-here)
+🔗 Live demo · 📦 [Code](https://github.com/mamtadhull111-cpu/paddle-clash.git)
 
 **[Website Name Here]**
 A short one-line description of what this website does.
