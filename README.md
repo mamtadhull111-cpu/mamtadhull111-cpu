@@ -1,3 +1,5 @@
+<img width="1333" height="654" alt="website" src="https://github.com/user-attachments/assets/2b997fca-fb09-4fe2-8259-df4dfff2fb70" />
+<img width="1240" height="594" alt="game" src="https://github.com/user-attachments/assets/fcd2a866-467e-4052-a8e1-86972cf54e5f" />
 
 
 <div align="center">
